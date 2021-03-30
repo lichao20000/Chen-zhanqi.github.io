@@ -1,0 +1,28 @@
+@font-face {
+    font-family: LongCang-Regular;
+    src: url('./LongCang-Regular_mianfeiziti.com.ttf');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+
+@font-face {
+  font-family: ZhuShiTi;
+  src: url('./杨任东竹石体_mianfeiziti.com.ttf');
+  font-weight: bold;
+  font-style: normal;
+} 
+
+@font-face {
+  font-family: HYSSYJ;
+  src: url('./汉仪书宋一简_mianfeiziti.com.ttf');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: HKST;
+  src: url('./华康宋体w5p_mianfeiziti.com.ttf');
+  font-weight: bold;
+  font-style: normal;
+} 
